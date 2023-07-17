@@ -8,4 +8,4 @@ total = sum(numbers)
 
 # 输出结果
 print("生成的随机数为：", numbers)
-print("总和为：", total)
+print("總合為：", total)
